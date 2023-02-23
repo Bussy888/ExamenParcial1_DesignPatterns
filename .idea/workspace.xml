@@ -5,27 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="855727d8-3b15-4fbb-896f-ab52ea16f04f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio1_FilaB/Estudiante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio1_FilaB/Tesis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio2_FilaB/Camara.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio2_FilaB/Celular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio2_FilaB/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio2_FilaB/ICelular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3_FilaB/Camiseta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3_FilaB/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3_FilaB/CreatorCamiseta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3_FilaB/CreatorELEMENTOS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3_FilaB/CreatorMedias.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3_FilaB/CreatorPelotaFutbol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3_FilaB/CreatorShorts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3_FilaB/CreatorTenis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3_FilaB/IElementos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3_FilaB/Medias.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3_FilaB/PelotaFutbol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3_FilaB/Shorts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3_FilaB/Tenis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio4_FilaB/BuilderContrato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio4_FilaB/Contrato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio4_FilaB/ContratoAmazon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio4_FilaB/ContratoHBO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio4_FilaB/ContratoNetflix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio4_FilaB/Usuario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ejercicio3_FilaB/Camiseta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3_FilaB/Camiseta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ejercicio3_FilaB/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3_FilaB/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ejercicio3_FilaB/CreatorCamiseta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3_FilaB/CreatorCamiseta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ejercicio3_FilaB/CreatorMedias.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3_FilaB/CreatorMedias.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ejercicio3_FilaB/CreatorPelotaFutbol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3_FilaB/CreatorPelotaFutbol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ejercicio3_FilaB/CreatorShorts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3_FilaB/CreatorShorts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ejercicio3_FilaB/CreatorTenis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3_FilaB/CreatorTenis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ejercicio3_FilaB/Medias.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3_FilaB/Medias.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ejercicio3_FilaB/PelotaFutbol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3_FilaB/PelotaFutbol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ejercicio3_FilaB/Shorts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3_FilaB/Shorts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ejercicio3_FilaB/Tenis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3_FilaB/Tenis.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +37,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -66,7 +63,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Ejercicio3_FilaB.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ejercicio2_FilaB.Client" />
       <module name="ExamenParcial1_DesignPatterns.main" />
@@ -80,8 +77,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ejercicio3_FilaB.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio3_FilaB.Client" />
+      <module name="ExamenParcial1_DesignPatterns.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicio3_FilaB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicio3_FilaB.Client" />
         <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
@@ -95,6 +106,18 @@
       <option name="presentableId" value="Default" />
       <updated>1677114988798</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit 1">
+      <created>1677193292929</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677193292929</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 1" />
   </component>
 </project>

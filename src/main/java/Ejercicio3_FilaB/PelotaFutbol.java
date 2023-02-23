@@ -1,6 +1,28 @@
 package Ejercicio3_FilaB;
 
-public class PelotaFutbol {
+public class PelotaFutbol implements IElementos {
+    private int precio;
+
+    public int getPrecio() {
+        return precio;
+    }
+
+    public void setPrecio(int precio) {
+        this.precio = precio;
+    }
+
+    @Override
+    public void showInfo() {
+        System.out.println("Color: "+color);
+        System.out.println("Tamano:"+tamano);
+        System.out.println("Garantia: "+garantia);
+        System.out.println("Precio: Bs."+precio);
+    }
+
+    @Override
+    public void create() {
+        System.out.println("Vendiendo Pelota De Futbol...");
+    }
     private String tamano;
     private String color;
     private String garantia;
