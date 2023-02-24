@@ -7,12 +7,12 @@ public class ContratoAmazon extends BuilderContrato{
     private List<String> lista = new ArrayList<>();
     @Override
     public void buildCosto() {
-
+        this.contrato.setCosto("50bs");
     }
 
     @Override
     public void buildEmpresa() {
-
+        this.contrato.setEmpresa("aws");
     }
 
     @Override

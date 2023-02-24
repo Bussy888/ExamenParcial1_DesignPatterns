@@ -7,6 +7,8 @@ public abstract  class BuilderContrato {
     }
 
     public void subscripcion(){
+        System.out.println();
+        System.out.println("Realizando Subscripcion....");
         contrato = new Contrato();
     }
 
