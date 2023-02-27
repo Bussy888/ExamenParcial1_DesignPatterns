@@ -5,20 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="855727d8-3b15-4fbb-896f-ab52ea16f04f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio4_FilaB/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio5_FilaB/AbstractExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio5_FilaB/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio5_FilaB/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio5_FilaB/Division.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio5_FilaB/Evaluator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio5_FilaB/NumberExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio5_FilaB/Suma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosOtraFilaA/Ej1/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosOtraFilaA/Ej1/Peaje.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosOtraFilaA/Ej1/Vehiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosOtraFilaA/Ej2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosOtraFilaA/Ej2/ITV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosOtraFilaA/Ej2/Televisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosOtraFilaA/Ej3/Batidora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosOtraFilaA/Ej3/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosOtraFilaA/Ej3/ElectrodomesticoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosOtraFilaA/Ej3/IElectrodomestico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosOtraFilaA/Ej3/Microondas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosOtraFilaA/Ej3/Radio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosOtraFilaA/Ej3/Refrigerador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosOtraFilaA/Ej3/Televisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosOtraFilaA/Ej4/BuilderPaquete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosOtraFilaA/Ej4/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosOtraFilaA/Ej4/Paquete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosOtraFilaA/Ej4/PaqueteMediano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosOtraFilaA/Ej4/PaqueteMega.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosOtraFilaA/Ej4/PaqueteNormal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosOtraFilaA/Ej4/VendedorCine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosOtraFilaA/Ej5/AbstractExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosOtraFilaA/Ej5/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosOtraFilaA/Ej5/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosOtraFilaA/Ej5/Evaluator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosOtraFilaA/Ej5/Multiplicacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosOtraFilaA/Ej5/NumberExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosOtraFilaA/Ej5/Suma.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ejercicio4_FilaB/BuilderContrato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ejercicio4_FilaB/BuilderContrato.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ejercicio4_FilaB/ContratoAmazon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ejercicio4_FilaB/ContratoAmazon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ejercicio4_FilaB/ContratoHBO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ejercicio4_FilaB/ContratoHBO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ejercicio4_FilaB/ContratoNetflix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ejercicio4_FilaB/ContratoNetflix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ejercicio4_FilaB/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ejercicio4_FilaB/Usuario.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,18 +70,19 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ejercicio5_FilaB.Client">
+  <component name="RunManager" selected="Application.EjerciciosOtraFilaA.Ej5.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ejercicio2_FilaB.Client" />
+      <option name="MAIN_CLASS_NAME" value="EjerciciosOtraFilaA.Ej3.Client" />
       <module name="ExamenParcial1_DesignPatterns.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ejercicio2_FilaB.*" />
+          <option name="PATTERN" value="EjerciciosOtraFilaA.Ej3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ejercicio3_FilaB.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ejercicio3_FilaB.Client" />
+    <configuration name="EjerciciosOtraFilaA.Ej1.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjerciciosOtraFilaA.Ej1.Client" />
       <module name="ExamenParcial1_DesignPatterns.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ejercicio3_FilaB.*" />
+          <option name="PATTERN" value="EjerciciosOtraFilaA.Ej1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ejercicio4_FilaB.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ejercicio4_FilaB.Client" />
+    <configuration name="EjerciciosOtraFilaA.Ej2.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjerciciosOtraFilaA.Ej2.Client" />
       <module name="ExamenParcial1_DesignPatterns.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ejercicio4_FilaB.*" />
+          <option name="PATTERN" value="EjerciciosOtraFilaA.Ej2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +116,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ejercicio5_FilaB.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ejercicio5_FilaB.Client" />
+    <configuration name="EjerciciosOtraFilaA.Ej4.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjerciciosOtraFilaA.Ej4.Client" />
       <module name="ExamenParcial1_DesignPatterns.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ejercicio5_FilaB.*" />
+          <option name="PATTERN" value="EjerciciosOtraFilaA.Ej4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjerciciosOtraFilaA.Ej5.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjerciciosOtraFilaA.Ej5.Client" />
+      <module name="ExamenParcial1_DesignPatterns.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EjerciciosOtraFilaA.Ej5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,10 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ejercicio5_FilaB.Client" />
-        <item itemvalue="Application.Ejercicio4_FilaB.Client" />
-        <item itemvalue="Application.Ejercicio3_FilaB.Client" />
+        <item itemvalue="Application.EjerciciosOtraFilaA.Ej5.Client" />
+        <item itemvalue="Application.EjerciciosOtraFilaA.Ej4.Client" />
         <item itemvalue="Application.Client" />
+        <item itemvalue="Application.EjerciciosOtraFilaA.Ej2.Client" />
+        <item itemvalue="Application.EjerciciosOtraFilaA.Ej1.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -144,12 +175,27 @@
       <option name="project" value="LOCAL" />
       <updated>1677195114744</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit 2">
+      <created>1677196878503</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677196878503</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Commit Final">
+      <created>1677196905347</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677196905347</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit 1" />
     <MESSAGE value="Commit 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 2" />
+    <MESSAGE value="Commit Final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Final" />
   </component>
 </project>
